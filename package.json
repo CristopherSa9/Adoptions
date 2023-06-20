@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-myconnection": "^1.0.4",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15"
+  },
+  "name": "adopciones",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
